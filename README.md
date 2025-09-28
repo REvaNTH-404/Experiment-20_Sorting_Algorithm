@@ -5,8 +5,7 @@ This repository contains C++ implementations of three fundamental comparison-bas
 ***
 
 ## 🏷️ Title of the Experiment
-[cite_start]To study and implement Sorting Algorithms: Selection Sort, Insertion Sort, and Bubble Sort[cite: 2377, 2378].
-
+To study and implement Sorting Algorithms: Selection Sort, Insertion Sort, and Bubble Sort
 ***
 
 ## 🛠️ Tools Used
